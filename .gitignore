@@ -1,0 +1,13 @@
+# PyCharm specific
+.idea/
+
+# macOS specific
+.DS_Store
+
+
+data/dev_csv_output/
+data/dev_site_data/
+
+*.csv
+*.json
+.env
